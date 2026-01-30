@@ -1,2 +1,2 @@
 # Applied_Machine_Learning
-This is the repo for AML course at CMI.
+This is the repository for AML course at CMI.
