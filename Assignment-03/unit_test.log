@@ -74,17 +74,7 @@ case = {'expected': True, 'id': 'spam_7', 'text': 'Limited time deal, buy now an
 E       AssertionError: spam_7 expected True, got False
 E       assert False == True
 
-integration_test.py:53: AssertionError
-============================== warnings summary ===============================
-integration_test.py:84
-  C:\Users\Arnab Bera\Desktop\CMI\CMI\Applied-ML\AppliedMachineLearning-main\AppliedMachineLearning\Assignment-03\integration_test.py:84: PytestUnknownMarkWarning: Unknown pytest.mark.integration - is this a typo?  You can register custom marks to avoid this warning - for details, see https://docs.pytest.org/en/stable/how-to/mark.html
-    @pytest.mark.integration
 
-integration_test.py:109
-  C:\Users\Arnab Bera\Desktop\CMI\CMI\Applied-ML\AppliedMachineLearning-main\AppliedMachineLearning\Assignment-03\integration_test.py:109: PytestUnknownMarkWarning: Unknown pytest.mark.integration - is this a typo?  You can register custom marks to avoid this warning - for details, see https://docs.pytest.org/en/stable/how-to/mark.html
-    @pytest.mark.integration
-
--- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
 =========================== short test summary info ===========================
 FAILED integration_test.py::test_score_prediction[spam_1] - AssertionError: s...
 FAILED integration_test.py::test_score_prediction[spam_7] - AssertionError: s...
