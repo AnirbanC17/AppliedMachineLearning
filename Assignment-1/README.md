@@ -15,7 +15,6 @@ This repository contains two primary Jupyter notebooks that together form a comp
 
 The pipeline is designed to be simple, modular, and easy to extend.
 
----
 
 ## Repository Structure
 
