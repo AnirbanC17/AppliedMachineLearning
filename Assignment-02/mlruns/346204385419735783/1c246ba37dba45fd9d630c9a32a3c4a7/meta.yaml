@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anirban/SEM-4/AML/AppliedMachineLearning/Assignment-02/mlruns/346204385419735783/1c246ba37dba45fd9d630c9a32a3c4a7/artifacts
+end_time: 1772560097041
+entry_point_name: ''
+experiment_id: '346204385419735783'
+lifecycle_stage: active
+run_id: 1c246ba37dba45fd9d630c9a32a3c4a7
+run_name: Linear_SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772560095210
+status: 3
+tags: []
+user_id: anirban

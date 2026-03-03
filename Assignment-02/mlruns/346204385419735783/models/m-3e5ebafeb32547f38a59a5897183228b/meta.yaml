@@ -1,0 +1,10 @@
+artifact_location: file:///Users/anirban/SEM-4/AML/AppliedMachineLearning/Assignment-02/mlruns/346204385419735783/models/m-3e5ebafeb32547f38a59a5897183228b/artifacts
+creation_timestamp: 1772560095268
+experiment_id: '346204385419735783'
+last_updated_timestamp: 1772560097039
+model_id: m-3e5ebafeb32547f38a59a5897183228b
+model_type: null
+name: model
+source_run_id: 1c246ba37dba45fd9d630c9a32a3c4a7
+status: 2
+status_message: null

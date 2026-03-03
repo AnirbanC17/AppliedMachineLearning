@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anirban/SEM-4/AML/AppliedMachineLearning/Assignment-02/mlruns/346204385419735783/f18a77b6a1e74fbdbe6668db699270a6/artifacts
+end_time: 1772560091915
+entry_point_name: ''
+experiment_id: '346204385419735783'
+lifecycle_stage: active
+run_id: f18a77b6a1e74fbdbe6668db699270a6
+run_name: Naive_Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772560089996
+status: 3
+tags: []
+user_id: anirban

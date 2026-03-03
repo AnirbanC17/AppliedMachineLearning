@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anirban/SEM-4/AML/AppliedMachineLearning/Assignment-02/mlruns/346204385419735783/8de029000a934dfc9ecebaef251643a2/artifacts
+end_time: 1772560086225
+entry_point_name: ''
+experiment_id: '346204385419735783'
+lifecycle_stage: active
+run_id: 8de029000a934dfc9ecebaef251643a2
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772560084079
+status: 3
+tags: []
+user_id: anirban
